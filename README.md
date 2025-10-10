@@ -1,0 +1,1 @@
+# Anal-za-a-Predikcia-Rizika-v-Procese-Schva-ovania-Poistn-ch-Zml-v
