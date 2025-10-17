@@ -21,7 +21,7 @@ V tejto fáze simulujem dátové transformácie s cieľom vytvoriť prediktívne
     * **Miera Konverzie:** Výpočet úspešnosti schválenia zmluvy na základe typu produktu alebo pobočky (pomocou `JOINs` a `GROUP BY`).
 * **Použité Nástroje:** SQL (DQL a DML pre transformáciu dát), Pandas (pre simuláciu načítania a čistenia dát).
 
-### **Fáza B: NLP – Analýza Poznámok (Prebieha)**
+### **Fáza B: NLP – Analýza Poznámok **
 
 Momentálne pracujem na implementácii NLP, ktoré premení textové poznámky k zmluvám na číselné prediktory.
 
@@ -37,8 +37,8 @@ Demonštrácia kompletného dátového potrubia (pipeline), kde surové procesn�
 
 ## **Ďalšie Zručnosti a Kontakt**
 
-Som kandidát s **55 rokmi**, ale s **overenou pracovnou etikou** a **vášňou pre sebavzdelávanie**, čo mi umožňuje rýchlo sa adaptovať. Hľadám príležitosť dokázať svoju hodnotu a procesnú logiku vo vašom dátovom tíme.
+Som kandidátka s **overenou pracovnou etikou** a **vášňou pre sebavzdelávanie**, čo mi umožňuje rýchlo sa adaptovať. Hľadám príležitosť dokázať svoju hodnotu a procesnú logiku vo vašom dátovom tíme.
 
-* **Kontakt:** [Tvoja E-mailová adresa]
-* **LinkedIn:** [Tvoj Link]
-* **Kód K Dispozícii:** (Kód pre SQL/Pandas/NLTK bude pridaný v priebehu práce na Lekcii 4.)
+* **Kontakt:** janastadtruckerova@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/jana-stadtruckerov%C3%A1-7801779b/
+* **Kód K Dispozícii:** (Kód pre SQL/Pandas/NLTK je v súboroch analyza rizika.sql a nlp_risk_model.py.)
